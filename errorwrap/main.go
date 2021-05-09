@@ -1,7 +1,7 @@
 package main
 
 import (
-	"errorWrap/dao"
+	"errorwrap/dao"
 	"fmt"
 	"log"
 )
